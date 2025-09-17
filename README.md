@@ -1,5 +1,4 @@
 # 👋 Hi, I'm Tharun Rega  
-![Banner] (https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif)
 🎓 B.Tech + M.Tech Student @ IIT Kharagpur  
 💻 Full-Stack Developer | AI/ML Enthusiast | Open Source Contributor  
 📍 From Mahabubabad, Telangana  
@@ -41,20 +40,6 @@
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white)
 
----
-
-## 📌 Projects  
-
-🔹 **Gram Panchayat User Management Portal**  
-Full-stack web app with **Django + REST APIs + Spring Boot**, optimized frontend performance by 40%.  
-
-🔹 **Intelligent Chatbot**  
-Python NLP chatbot with **Wikipedia API integration**, TF-IDF, context-aware responses.  
-
-🔹 **Sorting Algorithm Visualizer**  
-Python + Pygame tool to visualize sorting algorithms and their complexities.  
-
----
 
 ## 📊 GitHub Stats  
 
