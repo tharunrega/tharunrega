@@ -1,19 +1,19 @@
-# 👋 Hi, I'm Tharun Rega  
-🎓 B.Tech + M.Tech Student @ IIT Kharagpur  
-💻 Full-Stack Developer | AI/ML Enthusiast | Open Source Contributor  
-📍 From Mahabubabad, Telangana  
+#  Hi, I'm Tharun Rega  
+ B.Tech + M.Tech Student @ IIT Kharagpur  
+ Full-Stack Developer | AI/ML Enthusiast | Open Source Contributor  
+ From Mahabubabad, Telangana  
 
 ---
 
-## 🧑‍💻 About Me  
-- 🚀 Skilled in **JavaScript, Python, React, Next.js, Node.js, Tailwind CSS, SQL**  
-- 🌐 Experience with **REST APIs, scalable apps, chatbot development, NLP, data processing & visualization**  
-- 💡 Internship experience at **Kahani Kids AI (Singapore)** & **Adiion (Chennai)**  
-- 🏆 National Semi-Finalist, **Flipkart GRiD 7.0 (2025)**  
+##  About Me  
+- Skilled in **JavaScript, Python, React, Next.js, Node.js, Tailwind CSS, SQL**  
+- Experience with **REST APIs, scalable apps, chatbot development, NLP, data processing & visualization**  
+- Internship experience at **Kahani Kids AI (Singapore)** & **Adiion (Chennai)**  
+- National Semi-Finalist, **Flipkart GRiD 7.0 (2025)**  
 
 ---
 
-## 🚀 Tech Stack  
+##  Tech Stack  
 
 **Languages**  
 ![JavaScript](https://img.shields.io/badge/JavaScript-FFD43B?style=for-the-badge&logo=javascript&logoColor=black)
@@ -41,23 +41,23 @@
 ![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white)
 
 
-## 📊 GitHub Stats  
+##  GitHub Stats  
 
 ![Tharun's GitHub stats](https://github-readme-stats.vercel.app/api?username=tharunrega&show_icons=true&theme=radical)  
 
 ---
 
-## ✨ Fun Section  
+##  Fun Section  
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=22&duration=4000&color=36BCF7&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;AI%2FML+Enthusiast;Open+Source+Contributor;Always+Learning+New+Things)](https://git.io/typing-svg)
 
 ---
 
-📫 **Connect with me:**  
+ **Connect with me:**  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tharunrega/)  
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tharunrega)  
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tharunrega.workmail@gmail.com)  
 
 ---
 
-⭐️ From [tharunrega](https://github.com/tharunrega)
+ From [tharunrega](https://github.com/tharunrega)
