@@ -12,7 +12,7 @@ I build production-grade AI systems, real-time platforms, and high-performance b
 
 I’m an engineer who works at the intersection of **AI and scalable systems**.
 
-- Build **end-to-end AI products** — from model training → deployment  
+- Build **end-to-end AI products** from model training → deployment  
 - Design **high-performance backend systems** with real-time capabilities  
 - Work on **LLMs, NLP, and agentic workflows**  
 - Focus on **efficiency, scalability, and real-world impact**  
